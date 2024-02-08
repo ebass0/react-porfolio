@@ -1,0 +1,14 @@
+/* LISTA DE REDES SOCIAIS / CONTATOSD */
+.list {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+    margin-top: 2rem;
+}
+
+.list-link{
+    color: #94A3B8;
+    width: 1.5rem;
+    height: 1.5rem;
+}

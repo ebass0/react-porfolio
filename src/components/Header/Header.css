@@ -1,8 +1,6 @@
 .main {
     font-family: 'Inter' sans-serif;
     color: #E2E8F0;
-    position: fixed;
-    padding: 96px 0;
 }
 
 /* HEADER - ELEMENTO PAI */
@@ -20,19 +18,25 @@
 
 .title-link {
     text-decoration: inherit;
-    color: #E2E8F0;
+    color: rgb(226 232 240/1);
 }
 
 .informations-subtitle {
-    font-size:20px;
+    display: block;
+    margin-block-start: 0.83rem;
+    margin-block-end: 0.83rem;
+    margin-inline: 0;
+    font-size:1.25rem;
     font-weight: 500;
     margin: 12px 0 0;
+    color: rgb(226 232 240/1);
 }
 
 .informations-text {
     font-size: 16px;
-    color: #94A3B8;
+    color: rgb(148 163 184/1);
     margin: 16px 0 0;
+    max-width: 20rem;
 }
 
 /* LISTA/CABEÇALHO - NAV */

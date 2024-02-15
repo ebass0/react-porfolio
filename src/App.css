@@ -1,0 +1,19 @@
+.App {
+    color: white;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    max-width: 1280px;
+    min-height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 96px;
+    box-sizing: border-box;
+}
+
+.App-header {
+    padding: 91px 0;
+}
+
+.App-informacoes {
+    padding: 91px 0;
+}

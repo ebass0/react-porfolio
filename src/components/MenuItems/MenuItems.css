@@ -22,7 +22,8 @@
 /* TEXTO DA LISTA */
 .items-link {
     text-decoration: inherit;
-    color: #475569;
+    color: rgb(148 163 184/1);
+    font-weight: 700;
 }
 
 /* HOVER DO ITEM */

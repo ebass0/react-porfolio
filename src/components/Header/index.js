@@ -7,9 +7,9 @@ const Header = () => {
         <div className='main'>
             <header className='informations'>
                 <div>
-                    <h1 className='informations-title'><a href='/' className='title-link'>Estevao Basso</a></h1>
+                    <h1 className='informations-title'><a href='/' className='title-link'>Estevão Basso</a></h1>
                     <h2 className='informations-subtitle'>Full Stack Developer</h2>
-                    <p className='informations-text'>On a mission to become a full-stack developer, I'm constantly expanding my knowledge across various programming languages. My current focus is on JavaScript (ES6), HTML, CSS, React and Java. I bring a passion for creating engaging and accessible digital experiences, and I'm eager to translate my learning into real-world impact. Looking for opportunities to gain valuable experience and contribute to meaningful projects.</p>
+                    <p className='informations-text'>Aspiring full-stack developer with a keen eye for detail, I create immersive and user-friendly digital interfaces.</p>
                 </div>
                 <div>
                     <nav className='informations-links'>

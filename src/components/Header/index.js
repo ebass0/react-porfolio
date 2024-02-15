@@ -15,7 +15,7 @@ const Header = () => {
                     <nav className='informations-links'>
                         <ul className='links-list'>
                             <MenuItems item='About' />
-                            <MenuItems item='Experiences' />
+                            <MenuItems item='Experience' />
                             <MenuItems item='Projects' />
                         </ul>
                     </nav>

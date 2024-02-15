@@ -1,6 +1,6 @@
 .main {
-    font-family: 'Inter' sans-serif;
-    color: #E2E8F0;
+    color: inherit;
+    position: fixed;
 }
 
 /* HEADER - ELEMENTO PAI */

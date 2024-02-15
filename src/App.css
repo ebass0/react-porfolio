@@ -11,9 +11,11 @@
 }
 
 .App-header {
-    padding: 91px 0;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
 }
 
 .App-informacoes {
-    padding: 91px 0;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
 }

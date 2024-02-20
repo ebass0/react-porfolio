@@ -1,5 +1,6 @@
 .Resume {
     margin-top: 3rem;
+    margin-bottom: 10rem;
 }
 
 .Resume-link {
@@ -7,6 +8,7 @@
     font-size: 1rem;
     font-weight: 600;
     line-height: 1.25;
+    color: #E2E8F0
 }
 
 .icon {

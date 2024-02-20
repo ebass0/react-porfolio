@@ -6,7 +6,7 @@ const ProjetosItens = () => {
         <ul className='Container'>
             <li>
                 <div className='Projetos'>
-                    <a className='Projetos-container' href='/' target='_blank' rel='noreferrer'>
+                    <a className='Projetos-container' href='https://github.com/ebass0/alurabooks' target='_blank' rel='noreferrer'>
                         <div className='Projetos-header'>
                             <img src='../../../assets/alurabooks.png' alt='Alurabooks project interface'></img>
                         </div>
@@ -38,7 +38,7 @@ const ProjetosItens = () => {
 
             <li>
                 <div className='Projetos'>
-                    <a className='Projetos-container' href='/' target='_blank' rel='noreferrer'>
+                    <a className='Projetos-container' href='https://github.com/ebass0/clone-netflix' target='_blank' rel='noreferrer'>
                         <div className='Projetos-header'>
                             <img src='../../../assets/clone-netflix.png' alt='Netflix clone project'></img>
                         </div>

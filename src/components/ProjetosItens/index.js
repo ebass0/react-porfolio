@@ -8,7 +8,7 @@ const ProjetosItens = () => {
                 <div className='Projetos'>
                     <a className='Projetos-container' href='/' target='_blank' rel='noreferrer'>
                         <div className='Projetos-header'>
-                            <img src='../../../assets/alurabooks.png' alt='Alurabooks project image'></img>
+                            <img src='../../../assets/alurabooks.png' alt='Alurabooks project interface'></img>
                         </div>
                         <div className='Projetos-title'>
                             <div>
@@ -40,7 +40,7 @@ const ProjetosItens = () => {
                 <div className='Projetos'>
                     <a className='Projetos-container' href='/' target='_blank' rel='noreferrer'>
                         <div className='Projetos-header'>
-                            <img src='../../../assets/clone-netflix.png' alt='Netflix clone image'></img>
+                            <img src='../../../assets/clone-netflix.png' alt='Netflix clone project'></img>
                         </div>
                         <div className='Projetos-title'>
                             <div>

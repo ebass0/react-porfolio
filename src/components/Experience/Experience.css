@@ -68,7 +68,7 @@ ul {
 }
 
 /* HOVER */
-a:hover {
+.Experience-container:hover {
     cursor: pointer;
     border-radius: 0.375rem;
     background-color: rgba(30,41,59,.5);

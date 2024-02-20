@@ -1,6 +1,7 @@
 import './App.css';
 import Header from "./components/Header";
 import Informacoes from './components/Informacoes';
+import Resume from './components/Resume';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       </div>
       <div className='App-informacoes'>
         <Informacoes />
+        <Resume />
       </div>
     </div>
   );

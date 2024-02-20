@@ -3,13 +3,10 @@
     display: flex;
     gap: 1.2rem;
     list-style: none;
-    padding: 0;
     margin: 32px 0 0 4px;
-    font-size: 40px;
 }
 
 .list-link{
-    color: #94A3B8;
     width: 1.5rem;
     height: 1.5rem;
 }

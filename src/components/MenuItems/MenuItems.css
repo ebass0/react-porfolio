@@ -15,7 +15,12 @@
         content: "";
         height: .05rem;
         padding: 0 .75rem;
-        background-color: #475569;
+        background-color: hsl(215, 19%, 35%);
+    }
+
+    &:hover::before {
+        background-color: #FFFFFF;
+        padding: 0 2rem;
     }
 }
 
@@ -27,6 +32,10 @@
 }
 
 /* HOVER DO ITEM */
-.items-link:hover {
+.links-items:hover {
     color: inherit;
+
+    .items-link{
+        color: inherit;
+    }
 }

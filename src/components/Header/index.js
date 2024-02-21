@@ -14,9 +14,9 @@ const Header = () => {
                 <div>
                     <nav className='informations-links'>
                         <ul className='links-list'>
-                            <MenuItems item='About' />
-                            <MenuItems item='Experience' />
-                            <MenuItems item='Projects' />
+                            <MenuItems item='About' link='#' />
+                            <MenuItems item='Experience' link='#experience' />
+                            <MenuItems item='Projects' link='#projects' />
                         </ul>
                     </nav>
                 </div>

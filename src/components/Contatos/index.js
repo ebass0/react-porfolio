@@ -17,12 +17,12 @@ const Contatos = () => {
                 </a>
             </li>
             <li>
-                <a href='/' target='_blank' rel='noreferrer'>
+                <a href='https://www.instagram.com/ebasso_' target='_blank' rel='noreferrer'>
                     <FontAwesomeIcon icon={faInstagram} className='list-link' />
                 </a>
             </li>
             <li>
-                <a href="/" target='_blank' rel='noreferrer' >
+                <a href="https://x.com/estevao_basso" target='_blank' rel='noreferrer' >
                     <FontAwesomeIcon icon={faXTwitter} className='list-link' />
                 </a>
             </li>

@@ -2,9 +2,6 @@
 
 Welcome to the first version of my React portfolio! 🚀
 
-## Preview
-![Portfolio Preview](./preview.png)
-
 ## Technologies Used
 <div style="display: flex; gap: 20px;">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5" />

@@ -18,7 +18,7 @@ This portfolio is designed to showcase my skills, projects, and experiences as a
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://react-portfolio-phi.vercel.app/)
 
 ### Live Demo
-[Explore the Portfolio]([https://react-portfolio-phi.vercel.app/](https://react-porfolio-eawqcmyad-extevo-b.vercel.app/))
+[Explore the Portfolio]((https://react-porfolio-eawqcmyad-extevo-b.vercel.app/))
 
 ## Features
 - Clean and responsive design

@@ -2,9 +2,6 @@
 
 Welcome to the first version of my React portfolio! 🚀
 
-## Preview
-![Portfolio Preview](./preview.png)
-
 ## Technologies Used
 <div style="display: flex; gap: 20px;">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5" />
@@ -21,7 +18,7 @@ This portfolio is designed to showcase my skills, projects, and experiences as a
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://react-portfolio-phi.vercel.app/)
 
 ### Live Demo
-[Explore the Portfolio](https://react-portfolio-phi.vercel.app/)
+[Explore the Portfolio](https://react-porfolio-phi.vercel.app/)
 
 ## Features
 - Clean and responsive design

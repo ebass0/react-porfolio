@@ -15,7 +15,7 @@ Welcome to the first version of my React portfolio! 🚀
 This portfolio is designed to showcase my skills, projects, and experiences as a developer. It's built with React, leveraging the power of modern web technologies.
 
 ### Version
-[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://react-portfolio-phi.vercel.app/)
+[![Version](https://img.shields.io/badge/version-1.1-blue.svg)](https://react-portfolio-phi.vercel.app/)
 
 ### Live Demo
 [Explore the Portfolio](https://react-porfolio-phi.vercel.app/)

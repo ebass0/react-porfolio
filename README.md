@@ -1,4 +1,4 @@
-# React Portfolio v1.0
+# React Portfolio v1.1
 
 Welcome to the first version of my React portfolio! 🚀
 
